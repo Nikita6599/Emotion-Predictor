@@ -1,0 +1,4 @@
+Keras==2.2.4
+numpy==1.16.4
+pandas==0.24.2
+opencv_python==4.1.1.26
